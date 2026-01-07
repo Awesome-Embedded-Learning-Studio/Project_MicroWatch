@@ -38,7 +38,7 @@
 
 硬件清单评估已经完成第一代：
 
-[硬件清单]()
+[硬件清单](./documents/hardware/hardware_list.md)
 
 ------
 
