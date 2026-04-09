@@ -5,6 +5,8 @@
 *.bin
 *.elf
 
+build/
+
 # IDE files
 .vscode/
 .idea/
